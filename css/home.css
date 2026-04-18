@@ -597,7 +597,7 @@
 
 @media (max-width: 1000px) {
   .hero .hero-content .hero-header h1 {
-    font-size: 22.5vw;
+    font-size: 20.5vw;
   }
 
   .hero .hero-content .hero-footer-copy {
@@ -691,7 +691,7 @@
 
 @media (max-width: 600px) {
   .hero .hero-content .hero-header h1 {
-    font-size: 25vw;
+    font-size: 21vw;
   }
 
   .hero .hero-cards {
@@ -702,7 +702,7 @@
 
 @media (max-width: 500px) {
   .hero .hero-content .hero-header h1 {
-    font-size: 30vw;
+    font-size: 28vw;
   }
 
   .hero .hero-cards {
